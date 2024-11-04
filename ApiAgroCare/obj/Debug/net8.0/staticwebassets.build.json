@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "TW7RO8JFvpBnkhtN+PsSMDCwdjVfKo+J4HaHRF2RVak=",
+  "Source": "ApiAgroCare",
+  "BasePath": "_content/ApiAgroCare",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiAgroCare\\wwwroot",
+      "Source": "ApiAgroCare",
+      "ContentRoot": "C:\\Users\\Danil\\source\\repos\\Sprint4-.NET-main\\ApiAgroCare\\wwwroot\\",
+      "BasePath": "_content/ApiAgroCare",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Danil\\source\\repos\\Sprint4-.NET-main\\ApiAgroCare\\wwwroot\\Custom.css",
+      "SourceId": "ApiAgroCare",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Danil\\source\\repos\\Sprint4-.NET-main\\ApiAgroCare\\wwwroot\\",
+      "BasePath": "_content/ApiAgroCare",
+      "RelativePath": "Custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Custom.css"
+    },
+    {
+      "Identity": "C:\\Users\\Danil\\source\\repos\\Sprint4-.NET-main\\ApiAgroCare\\wwwroot\\images\\agrocare.jpg",
+      "SourceId": "ApiAgroCare",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Danil\\source\\repos\\Sprint4-.NET-main\\ApiAgroCare\\wwwroot\\",
+      "BasePath": "_content/ApiAgroCare",
+      "RelativePath": "images/agrocare.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\agrocare.jpg"
+    }
+  ]
+}
